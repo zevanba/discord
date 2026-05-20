@@ -20,7 +20,7 @@ background-color: #121214;
 .h1ra{
 
 margin: 0;
-
+color: wheat;
 
 
 }
@@ -46,7 +46,7 @@ padding: 4px;
 .a1{
 
     text-decoration: none;
-    color:#1a1a1e;
+    color: wheat;
 
 }
 
@@ -63,7 +63,8 @@ padding: 4px;
 border-collapse: collapse;
 
 }
-
+
+
 
 .Bienvenid{
 
@@ -82,6 +83,16 @@ text-align: center;
 color: gray;
 
 font-size: 26px;
+
+}
+
+.pd2{
+
+text-align: center;
+
+color: gray;
+
+font-size: 22px;
 
 }
 
