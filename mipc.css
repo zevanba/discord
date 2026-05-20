@@ -35,6 +35,18 @@ padding: 4px;
 
 }
 
+.er-tr-td2{
+
+background-color: #26262b;
+
+border: solid 3px #3a3a42;
+
+padding: 4px;
+
+text-align: center;
+
+}
+
 .tabla1{
 
 border-collapse: collapse;
@@ -63,5 +75,23 @@ color: gray;
 text-align: center;
 
 font-size: 60px;
+
+}
+
+.tabla2{
+
+border-collapse: collapse;
+
+margin: 0 auto;
+
+
+
+}
+
+footer{
+
+
+text-align: center;
+color: wheat;
 
 }

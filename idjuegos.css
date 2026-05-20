@@ -65,3 +65,43 @@ text-align: center;
 font-size: 60px;
 
 }
+
+.tabla2{
+
+border-collapse: collapse;
+
+margin: 0 auto;
+
+
+
+}
+
+.er-tr-td2{
+
+background-color: #26262b;
+
+border: solid 3px #3a3a42;
+
+padding: 4px;
+
+text-align: center;
+
+}
+
+.idjuegos{
+
+color: gray;
+
+text-align: center;
+
+font-size: 60px;
+
+}
+
+footer{
+
+
+text-align: center;
+color: wheat;
+
+}
