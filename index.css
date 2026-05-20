@@ -1,0 +1,99 @@
+.div_index1{
+
+
+padding: 0;
+
+background-color: #1a1a1e;
+
+
+
+}
+
+body{
+
+margin: 0; padding: 0;
+
+background-color: #121214;
+
+}
+
+.h1ra{
+
+margin: 0;
+
+
+
+}
+
+.er-tr-td{
+
+background-color: #26262b;
+
+border: solid 3px #3a3a42;
+
+padding: 4px;
+
+}
+.er-tr-td-ahora{
+
+background-color: #00adb5;
+
+border: solid 3px #3a3a42;
+
+padding: 4px;
+
+
+}
+.a1{
+
+    text-decoration: none;
+    color:#1a1a1e;
+
+}
+
+.a2{
+
+    text-decoration: none;
+    color: gray;
+
+
+}
+
+.tabla1{
+
+border-collapse: collapse;
+
+}
+
+span{
+
+background-color: rgb(82, 171, 255);
+
+}
+
+.Bienvenid{
+
+color: gray;
+
+text-align: center;
+
+font-size: 60px;
+
+}
+
+.pd{
+
+text-align: center;
+
+color: gray;
+
+font-size: 26px;
+
+}
+
+footer{
+
+
+text-align: center;
+
+}
