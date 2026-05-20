@@ -17,6 +17,12 @@ background-color: #121214;
 
 }
 
+.tabla1{
+
+border-collapse: collapse;
+
+}
+
 .h1ra{
 
 margin: 0;
@@ -50,66 +56,12 @@ padding: 4px;
 
 }
 
-.a2{
-
-    text-decoration: none;
-    color: gray;
-
-
-}
-
-.tabla1{
-
-border-collapse: collapse;
-
-}
-
-
-
-.Bienvenid{
+.titulo{
 
 color: gray;
 
 text-align: center;
 
 font-size: 60px;
-
-}
-
-.pd{
-
-text-align: center;
-
-color: gray;
-
-font-size: 26px;
-
-}
-
-.pd2{
-
-text-align: center;
-
-color: gray;
-
-font-size: 22px;
-
-}
-
-footer{
-
-
-text-align: center;
-
-color: wheat;
-
-}
-
-
-
-.imagen1{
-
-text-align: center;
-
 
 }

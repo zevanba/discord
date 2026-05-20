@@ -34,6 +34,12 @@ border: solid 3px #3a3a42;
 padding: 4px;
 
 }
+
+.tabla1{
+
+border-collapse: collapse;
+
+}
 .er-tr-td-ahora{
 
 background-color: #00adb5;
@@ -50,66 +56,12 @@ padding: 4px;
 
 }
 
-.a2{
-
-    text-decoration: none;
-    color: gray;
-
-
-}
-
-.tabla1{
-
-border-collapse: collapse;
-
-}
-
-
-
-.Bienvenid{
+.mipc{
 
 color: gray;
 
 text-align: center;
 
 font-size: 60px;
-
-}
-
-.pd{
-
-text-align: center;
-
-color: gray;
-
-font-size: 26px;
-
-}
-
-.pd2{
-
-text-align: center;
-
-color: gray;
-
-font-size: 22px;
-
-}
-
-footer{
-
-
-text-align: center;
-
-color: wheat;
-
-}
-
-
-
-.imagen1{
-
-text-align: center;
-
 
 }
